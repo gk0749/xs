@@ -1,10 +1,10 @@
 {
-    "spider": "clan://localhost/xs/lib/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
-    "spider": "clan://localhost/xs/lib/zy.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/zy.jar",
     "lives": [
         {
             "name": "live",
-            "url": "clan://localhost/xs/lib/pro.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/pro.txt",
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -16,7 +16,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=clan://localhost/xs/lib/pro.txt"
+                        "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/pro.txt"
                     ]
                 }
             ]
@@ -67,8 +67,8 @@
             "quickSearch": 1,
             "pwd": "674f3c2c1a8a6f90461e8a66fb5550ba",
             "filterable": 0,
-            "ext": "clan://localhost/xs/lib/香蕉资源.json",
-            "jar": "clan://localhost/xs/lib/Yoursmile2.jar"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/香蕉资源.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/Yoursmile2.jar"
         },
         {
             "key": "csp_xBPQ_香蕉久久热",
@@ -79,8 +79,8 @@
             "quickSearch": 1,
             "pwd": "674f3c2c1a8a6f90461e8a66fb5550ba",
             "filterable": 0,
-            "ext": "clan://localhost/xs/lib/香蕉久久热.json",
-            "jar": "clan://localhost/xs/lib/Yoursmile2.jar"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/香蕉久久热.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/Yoursmile2.jar"
         },
         {
             "key": "csp_xBPQ_香蕉废柴",
@@ -91,8 +91,8 @@
             "quickSearch": 1,
             "pwd": "674f3c2c1a8a6f90461e8a66fb5550ba",
             "filterable": 0,
-            "ext": "clan://localhost/xs/lib/香蕉废柴.json",
-            "jar": "clan://localhost/xs/lib/Yoursmile2.jar"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/香蕉废柴.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/Yoursmile2.jar"
         },
         
         {
@@ -104,8 +104,8 @@
             "quickSearch": 1,
             "pwd": "674f3c2c1a8a6f90461e8a66fb5550ba",
             "filterable": 1,
-            "ext": "clan://localhost/xs/lib/GAOAA.json",
-            "jar": "clan://localhost/xs/lib/XBPQ_0111.jar"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/GAOAA.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/XBPQ_0111.jar"
         },
         {
             "key": "csp_xBPQ_Jable",
@@ -116,8 +116,8 @@
             "quickSearch": 1,
             "pwd": "674f3c2c1a8a6f90461e8a66fb5550ba",
             "filterable": 1,
-            "ext": "clan://localhost/xs/lib/Jable.json",
-            "jar": "clan://localhost/xs/lib/Yoursmile2.jar"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/Jable.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/Yoursmile2.jar"
         },
         {
             "key": "美少女",
@@ -128,7 +128,7 @@
             "pwd": "674f3c2c1a8a6f90461e8a66fb5550ba",
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "clan://localhost/xs/lib/18.jar"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/18.jar"
         },
         
         {
@@ -231,7 +231,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "clan://localhost/xs/lib/大炮色.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/xs/main/lib/大炮色.json"
         },
         
         
