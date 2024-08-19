@@ -1,0 +1,17 @@
+
+首先，无论什么软件都要先点 
+设置--配置地址--权限  
+
+要给与读取权限
+
+影视仓等tvbox 配置地址为：
+
+
+clan://localhost/xs/xs.json
+
+蜂蜜类
+file://xs/xs.json
+
+
+内嵌安装版配备地址
+assets://js/xs.json
